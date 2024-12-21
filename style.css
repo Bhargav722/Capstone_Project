@@ -68,8 +68,8 @@ body{
 }
 .body-content p{
     color: black;
-    margin-top: 0;
     margin-left: 7%;
+    margin-top:0;
 }
 .body-content img{
     width: 30vw;
