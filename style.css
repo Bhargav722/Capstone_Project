@@ -11,7 +11,6 @@ body{
     justify-content: space-between;
     padding: 25px;
     margin-left: 12%;
-    backdrop-filter: blur(96px);
     box-shadow: 0px 4px 24px 0px #00000029;
 }
 
